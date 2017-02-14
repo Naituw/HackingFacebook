@@ -3,6 +3,8 @@
 
 Bypassing Facebook for iOS's SSL Pinning, allow us to capture decrypted HTTPS request send from Facebook, with tools like [Charles](https://www.charlesproxy.com/).
 
+![Screen Shot](https://raw.githubusercontent.com/Naituw/HackingFacebook/master/screenshot.png)
+
 ## Description
 
 This repository shows how to kill the certificate pinning in [Facebook for iOS](https://itunes.apple.com/cn/app/facebook/id284882215?mt=8).
