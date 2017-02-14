@@ -7,7 +7,7 @@ Bypassing Facebook for iOS's SSL Pinning, allow us to capture decrypted HTTPS re
 
 ## Description
 
-This repository shows how to kill the certificate pinning in [Facebook for iOS](https://itunes.apple.com/cn/app/facebook/id284882215?mt=8).
+This repository shows how to kill the certificate pinning in [Facebook for iOS](https://itunes.apple.com/cn/app/facebook/id284882215?mt=8) **without** Jailbreak your device.
 
 I've successfully captured decrypted https requests from Facebook with Charles by apply this patch. I tested the currently newest Facebook for iOS version 79.0, this patch may become invalid with newer version.
 
