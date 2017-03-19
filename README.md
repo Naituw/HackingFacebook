@@ -21,8 +21,9 @@ I've successfully captured decrypted https requests from Facebook with Charles b
 
 **Update 20170319**
 
-> I've developed a new tool to finish this step in a more simple way, see:
-> https://github.com/Naituw/IPAPatch
+I've developed a new tool to finish this steps in more simple way, see:
+
+https://github.com/Naituw/IPAPatch
 
 **Original Instructions**
 
