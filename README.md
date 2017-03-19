@@ -19,6 +19,13 @@ I've successfully captured decrypted https requests from Facebook with Charles b
 
 ## Instructions
 
+**Update 20170319**
+
+> I've developed a new tool to finish this step in a more simple way, see:
+> https://github.com/Naituw/IPAPatch
+
+**Original Instructions**
+
 1. Prepare `Facebook_extenstion_removed.ipa`
    - Get decrypted Facebook ipa, wether from  a jailbroken device or ipa download site (I'm using ipa downloaded from http://www.iphonecake.com)
    - Unzip ipa, Remove `Payload/Facebook.app/Plugins` folder, which contains App Extensions.
